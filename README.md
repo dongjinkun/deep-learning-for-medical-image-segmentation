@@ -10,7 +10,7 @@
 - PyTorch(1.7.0)
 - Python(3.7.10)
 - torchvision(0.8.1)
-# 所用数据集
+# 数据集
 - 1.skin lesion segmentation:ISIC2017, ISIC2018 and PH2
 - 2.lung field segmentation:JSRT, Montgomery and NIH
 # 在哪里可以找到我
