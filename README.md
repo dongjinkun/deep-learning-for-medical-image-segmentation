@@ -4,7 +4,6 @@
  - image segmentation
  - visualization
  - tips
- - bug及问题解决
 # 环境
 - Anaconda
 - PyTorch(1.7.0)
