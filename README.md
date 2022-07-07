@@ -12,8 +12,8 @@
 - torchvision(0.8.1)
 # 数据集
 - 1.skin lesion segmentation
-  - ISIC2017
-  - ISIC2018
+  - ISIC2017:https://challenge.isic-archive.com/data/#2017 'ISIC2017数据集'
+  - ISIC2018:https://challenge.isic-archive.com/data/#2018 'ISIC2018数据集'
   - PH2
 - 2.lung field segmentation
   - JSRT
