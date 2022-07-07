@@ -21,6 +21,6 @@
   - NIH
 - 3.COVID-19
 # 在哪里可以找到我
-- 如果有什么问题，也可以到CSDN-[dongjinkun的博客](https://dongjinkun.blog.csdn.net/)中与我一起交流讨论。
-- [邮箱](https://dongjinkun00@163.com)
+- 如果有什么问题，也可以到CSDN中与我一起交流讨论。[dongjinkun的博客](https://dongjinkun.blog.csdn.net/)
+- 邮箱：https://dongjinkun00@163.com
  
